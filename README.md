@@ -7,8 +7,9 @@
 - Discord Bots
   - Friend Server (Private)
   - Poker (Private)
-- Hack Ohio 2022 (Private)
-- [Hack Ohio 2021](https://github.com/Adam-Flis/Hack-Ohio-2021)
+- Hack Ohio
+  - 2022 (Private)
+  - [2021](https://github.com/Adam-Flis/Hack-Ohio-2021)
 - [Calculator Programs](https://github.com/Adam-Flis/Calculator-Programs)
 - [Drone Technology](https://github.com/Adam-Flis/Drone-Technology)
 - Team 2011 VEX Robotics Club
