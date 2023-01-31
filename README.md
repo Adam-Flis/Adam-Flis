@@ -17,6 +17,7 @@
 - BBH VEX Scouting Webapp (Private)
 - BBH VEX Inventory Webapp (Private)
 - [Vex Scouting Notes Robot](https://github.com/Adam-Flis/Vex-Scouting-Notes-Robot)
+- If you're interested in viewing my private repositories, feel free to reach out to me for more information.
 
 # Contact
 - [LinkedIn](https://www.linkedin.com/in/adam-flis-580409251/)
