@@ -1,7 +1,7 @@
 # Adam Flis
 - Student at the Ohio State University
 - Bachelor of Science in Computer Science & Engineering 
-- Passionate about creating programming projects that have a positive impact on others
+- Extremely passionate about technology and helping others through software.
 
 # Repositories
 - Team 2011 VEX Robotics Club
@@ -24,7 +24,7 @@
   - [2021](https://github.com/Adam-Flis/Hack-Ohio-2021)
 - [Drone Technology](https://github.com/Adam-Flis/Drone-Technology)
 - [Calculator Programs](https://github.com/Adam-Flis/Calculator-Programs)
-- ## If you're interested in viewing my private repositories, feel free to contact me using for more information.
+- ### If you're interested in viewing my private repositories, feel free to contact me for more information.
 
 # Contact
 - [LinkedIn](https://www.linkedin.com/in/adam-flis-580409251/)
