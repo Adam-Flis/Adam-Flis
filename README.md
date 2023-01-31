@@ -21,4 +21,4 @@
 # Contact
 - [LinkedIn](https://www.linkedin.com/in/adam-flis-580409251/)
 - `adamflis2002@gmail.com`
-- 'flis.14@buckeyemail.osu.edu`
+- `flis.14@buckeyemail.osu.edu`
