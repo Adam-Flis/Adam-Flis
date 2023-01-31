@@ -5,17 +5,17 @@
 
 # Repositories
 - Team 2011 VEX Robotics Club
-  -  [2011F Change Up](https://github.com/Adam-Flis/2011F-Change-Up)
-  -  [2011A Tower Takeover](https://github.com/Adam-Flis/2011A-Tower-Takeover)
-  -  [2011A Turning Point](https://github.com/Adam-Flis/2011A-Turning-Point)
-  -  [2011F In The Zone](https://github.com/Adam-Flis/2011F-In-The-Zone)
+  -  [Change Up](https://github.com/Adam-Flis/2011F-Change-Up)
+  -  [Tower Takeover](https://github.com/Adam-Flis/2011A-Tower-Takeover)
+  -  [Turning Point](https://github.com/Adam-Flis/2011A-Turning-Point)
+  -  [In The Zone](https://github.com/Adam-Flis/2011F-In-The-Zone)
 - BBH VEX Scouting Webapp (Private)
 - BBH VEX Inventory Webapp (Private)
 - [Vex Scouting Notes Robot](https://github.com/Adam-Flis/Vex-Scouting-Notes-Robot)
 - University
-  - [CSE 2231](https://github.com/Adam-Flis/CSE-2231)
-  - [CSE 2221](https://github.com/Adam-Flis/CSE-2221)
-  - [SDP 1181](https://github.com/Adam-Flis/SDP-1181)
+  - CSE 2231 (Private)
+  - CSE 2221 (Private)
+  - SDP 1181 (Private)
 - Discord Bots
   - Friend Server (Private)
   - Poker (Private)
