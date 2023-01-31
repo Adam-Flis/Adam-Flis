@@ -15,7 +15,7 @@
 - University
   - [SDP 1181](https://github.com/Adam-Flis/SDP-1181)
   - [CSE 2221](https://github.com/Adam-Flis/CSE-2221)
-  - [CSE 2232](https://github.com/Adam-Flis/CSE-2231)
+  - [CSE 2231](https://github.com/Adam-Flis/CSE-2231)
 - Discord Bots
   - Friend Server (Private)
   - Poker (Private)
