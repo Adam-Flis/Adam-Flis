@@ -1,5 +1,5 @@
 # Adam Flis
-- Student at the Ohio State University
+- Student at The Ohio State University
 - Bachelor of Science in Computer Science & Engineering 
 - Extremely passionate about technology and helping others through software.
 
