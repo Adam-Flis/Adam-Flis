@@ -1,7 +1,7 @@
 # Adam Flis
 - Student at The Ohio State University
-- Bachelor of Science in Computer Science & Engineering 
-- Extremely passionate about technology and helping others through software.
+- Undergrad studying Computer Science and Engineering 
+- Extremely passionate about technology and helping others through software
 
 # Repositories
 - [National Collegiate Dodgeball Association Digitial Shotclock](https://github.com/Adam-Flis/NCDA-Shotclock)
@@ -12,11 +12,11 @@
   -  [In The Zone](https://github.com/Adam-Flis/2011F-In-The-Zone)
 - BBH VEX Scouting Webapp (Private)
 - BBH VEX Inventory Webapp (Private)
-- [Vex Scouting Notes Robot](https://github.com/Adam-Flis/Vex-Scouting-Notes-Robot)
+- [VEX Scouting Notes Robot](https://github.com/Adam-Flis/Vex-Scouting-Notes-Robot)
 - University
-  - CSE 2231 (Private)
-  - CSE 2221 (Private)
-  - SDP 1181 (Private)
+  - Software 2: CSE 2231 (Private)
+  - Software 1: CSE 2221 (Private)
+  - Fundamentals of Engineering: FE 1181 (Private)
 - Discord Bots
   - Friend Server (Private)
   - Poker (Private)
@@ -25,7 +25,7 @@
   - [2021](https://github.com/Adam-Flis/Hack-Ohio-2021)
 - [Drone Technology](https://github.com/Adam-Flis/Drone-Technology)
 - [Calculator Programs](https://github.com/Adam-Flis/Calculator-Programs)
-- ### If you're interested in viewing my private repositories, feel free to contact me for more information.
+- ### If you're interested in viewing my private repositories, feel free to contact using the me using the information below.
 
 # Contact
 - [LinkedIn](https://www.linkedin.com/in/adam-flis-580409251/)
