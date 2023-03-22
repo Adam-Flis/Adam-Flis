@@ -25,7 +25,7 @@
   - [2021](https://github.com/Adam-Flis/Hack-Ohio-2021)
 - [Drone Technology](https://github.com/Adam-Flis/Drone-Technology)
 - [Calculator Programs](https://github.com/Adam-Flis/Calculator-Programs)
-- ### If you're interested in viewing my private repositories, feel free to contact using the me using the information below.
+- ### If you're interested in viewing my private repositories or have other questions, feel free to contact me using the information below.
 
 # Contact
 - [LinkedIn](https://www.linkedin.com/in/adam-flis-580409251/)
