@@ -17,6 +17,7 @@
   - Software 2: CSE 2231 (Private)
   - Software 1: CSE 2221 (Private)
   - Fundamentals of Engineering: FE 1181 (Private)
+- [Google Sheets Planner](https://github.com/Adam-Flis/Google-Sheets-Planner)
 - Discord Bots
   - Friend Server (Private)
   - Poker (Private)
