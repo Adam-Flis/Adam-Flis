@@ -14,6 +14,7 @@
 - BBH VEX Inventory Webapp (Private)
 - [VEX Scouting Notes Robot](https://github.com/Adam-Flis/Vex-Scouting-Notes-Robot)
 - University
+  - Systems 1: CSE 2421 (Private)
   - Software 2: CSE 2231 (Private)
   - Software 1: CSE 2221 (Private)
   - Fundamentals of Engineering: FE 1181 (Private)
