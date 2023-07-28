@@ -1,6 +1,7 @@
 # Adam Flis
 - Student at The Ohio State University
-- Undergrad studying Computer Science and Engineering 
+- Majoring in Computer Science and Engineering
+- Minor in Innovation and Entrepreneurship
 - Extremely passionate about technology and helping others through software
 
 # Repositories
