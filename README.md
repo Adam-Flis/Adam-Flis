@@ -6,7 +6,7 @@
 - Extremely passionate about technology and helping others through software
 
 # Repositories
-- [National Collegiate Dodgeball Association Dodgeball Game Manager](https://github.com/Adam-Flis/NCDA-Shotclock)
+- [Dodgeball Game Manager](https://github.com/Adam-Flis/NCDA-Shotclock)
 - Team 2011 VEX Robotics Club
   -  [Change Up](https://github.com/Adam-Flis/2011F-Change-Up)
   -  [Tower Takeover](https://github.com/Adam-Flis/2011A-Tower-Takeover)
