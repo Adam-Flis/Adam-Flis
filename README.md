@@ -6,7 +6,8 @@
 - Extremely passionate about technology and helping others through software
 
 # Repositories
-- [Dodgeball Game Manager](https://github.com/Adam-Flis/NCDA-Shotclock)
+- [Dodgeball Game Manager Gen 1](https://github.com/Adam-Flis/NCDA-Shotclock)
+- [Dodgeball Game Manager Gen 2](https://github.com/orgs/Digital-Sports-Solutions-LLC/repositories)
 - Team 2011 VEX Robotics Club
   -  [Change Up](https://github.com/Adam-Flis/2011F-Change-Up)
   -  [Tower Takeover](https://github.com/Adam-Flis/2011A-Tower-Takeover)
@@ -16,6 +17,7 @@
 - BBH VEX Inventory Webapp (Private)
 - [VEX Scouting Notes Robot](https://github.com/Adam-Flis/Vex-Scouting-Notes-Robot)
 - University
+  - Systems 2: CSE 2431 (Private)
   - Systems 1: CSE 2421 (Private)
   - Software 2: CSE 2231 (Private)
   - Software 1: CSE 2221 (Private)
@@ -25,6 +27,7 @@
   - Friend Server (Private)
   - Poker (Private)
 - Hack Ohio
+  - 2023 (Private)
   - 2022 (Private)
   - [2021](https://github.com/Adam-Flis/Hack-Ohio-2021)
 - [Drone Technology](https://github.com/Adam-Flis/Drone-Technology)
