@@ -1,13 +1,14 @@
 # Adam Flis
-- Founder & CEO of Digital Sports Solutions LLC
+- Founder & CEO of Digital Sports Solutions LLC (DSS)
 - Student at The Ohio State University
 - Majoring in Computer Science and Engineering
 - Minoring in Innovation and Entrepreneurship
 - Extremely passionate about technology and helping others through software
 
 # Repositories
+- DSS Clkr (Private)
 - [Dodgeball Game Manager Gen 1](https://github.com/Adam-Flis/NCDA-Shotclock)
-- [Dodgeball Game Manager Gen 2](https://github.com/orgs/Digital-Sports-Solutions-LLC/repositories)
+- Dodgeball Game Manager Gen 2 (Private)
 - Team 2011 VEX Robotics Club
   -  [Change Up](https://github.com/Adam-Flis/2011F-Change-Up)
   -  [Tower Takeover](https://github.com/Adam-Flis/2011A-Tower-Takeover)
