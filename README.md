@@ -36,6 +36,6 @@
 - ### If you're interested in viewing my private repositories or have other questions, feel free to contact me using the information below.
 
 # Contact
-- [LinkedIn](https://www.linkedin.com/in/adam-flis-580409251/)
+- [LinkedIn](https://www.linkedin.com/in/adam-flis/)
 - `adamflis2002@gmail.com`
 - `flis.14@buckeyemail.osu.edu`
