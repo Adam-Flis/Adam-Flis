@@ -6,7 +6,7 @@
 - Extremely passionate about technology and helping others through software
 
 # Repositories
-- DSS Clkr (Private)
+- DSS Clkr® (Private)
 - [Dodgeball Game Manager Gen 1](https://github.com/Adam-Flis/NCDA-Shotclock)
 - Dodgeball Game Manager Gen 2 (Private)
 - Team 2011 VEX Robotics Club
