@@ -2,7 +2,7 @@
 - Founder & CEO of Digital Sports Solutions LLC (DSS)
 - Student at The Ohio State University
 - Majoring in Computer Science and Engineering
-- Minoring in Innovation and Entrepreneurship
+- Minoring in Entrepreneurship and Innovation 
 - Extremely passionate about technology and helping others through software
 
 # Repositories
