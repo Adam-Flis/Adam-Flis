@@ -1,5 +1,5 @@
 # Adam Flis
-- Founder & CEO of Digital Sports Solutions LLC (DSS)
+- Founder & CTO of Digital Sports Solutions LLC (DSS)
 - Student at The Ohio State University
 - Majoring in Computer Science and Engineering
 - Minoring in Entrepreneurship and Innovation 
