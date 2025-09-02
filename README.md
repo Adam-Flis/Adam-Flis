@@ -1,12 +1,12 @@
 # Adam Flis
 - Founder & CTO of [Digital Sports Solutions LLC (DSS)](https://www.digitalsportssolutions.com/)
-- Student at The Ohio State University
-- Majoring in Computer Science and Engineering
-- Minoring in Entrepreneurship and Innovation 
-- Extremely passionate about technology and helping others through software
+- The Ohio State University Alumni (`25)
+- B.S. in Computer Science and Engineering
+- Minor in Entrepreneurship and Innovation 
 
 # Repositories
-- DSS Clkr® (Private)
+- DSS TinyLeague (Private)
+- DSS Clkr (Private)
 - [Dodgeball Game Manager Gen 1](https://github.com/Adam-Flis/NCDA-Shotclock)
 - Dodgeball Game Manager Gen 2 (Private)
 - Team 2011 VEX Robotics Club
@@ -38,4 +38,3 @@
 # Contact
 - [LinkedIn](https://www.linkedin.com/in/adam-flis/)
 - `adamflis2002@gmail.com`
-- `flis.14@buckeyemail.osu.edu`
